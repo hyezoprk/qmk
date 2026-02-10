@@ -1,1 +1,1 @@
-qmk compile -kb daisy/clacky40 -km hyezo
+qmk compile -kb daisy/hyezo40 -km hyezo
